@@ -42,6 +42,9 @@ namespace planets
             planetList.RemoveAt(8);
             planetList.ForEach(planet => Console.WriteLine(planet));
 
+
+
+
             Random random = new Random();
             List<int> numbers = new List<int> {
                 random.Next(10),
