@@ -1,0 +1,11 @@
+C:\Users\ashp9\backend\workspace\planets\obj\Debug\netcoreapp2.2\planets.csprojAssemblyReference.cache
+C:\Users\ashp9\backend\workspace\planets\obj\Debug\netcoreapp2.2\planets.csproj.CoreCompileInputs.cache
+C:\Users\ashp9\backend\workspace\planets\obj\Debug\netcoreapp2.2\planets.AssemblyInfoInputs.cache
+C:\Users\ashp9\backend\workspace\planets\obj\Debug\netcoreapp2.2\planets.AssemblyInfo.cs
+C:\Users\ashp9\backend\workspace\planets\bin\Debug\netcoreapp2.2\planets.deps.json
+C:\Users\ashp9\backend\workspace\planets\bin\Debug\netcoreapp2.2\planets.runtimeconfig.json
+C:\Users\ashp9\backend\workspace\planets\bin\Debug\netcoreapp2.2\planets.runtimeconfig.dev.json
+C:\Users\ashp9\backend\workspace\planets\bin\Debug\netcoreapp2.2\planets.dll
+C:\Users\ashp9\backend\workspace\planets\bin\Debug\netcoreapp2.2\planets.pdb
+C:\Users\ashp9\backend\workspace\planets\obj\Debug\netcoreapp2.2\planets.dll
+C:\Users\ashp9\backend\workspace\planets\obj\Debug\netcoreapp2.2\planets.pdb
